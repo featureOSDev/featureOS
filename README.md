@@ -1,5 +1,7 @@
 # featureOS
 
+![featureOS Logo](https://github.com/modosdev/featureOS/blob/f0435b94f58c2a9de9567354ff888a820d0cc6ac/featureOS.png)
+
 A modern, ethical, and efficient operating system for feature phones. Designed to bring a capable web and app experience to devices with limited resources.
 
 ## Vision
