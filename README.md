@@ -45,7 +45,7 @@ We welcome developers, designers, testers, and advocates. The project is in its 
 > Initially targeting popular 4G feature phones with unlockable bootloaders (e.g., Nokia 2720 4G). The minimum specification is 512MB of RAM.
 
 **How will it run modern websites?**
-> Through a multi-layered strategy: a highly efficient native browser, client-side polyfills for web standards, and an optional cloud proxy that simplifies complex sites for basic rendering.
+> Through a multi-layered strategy: a highly efficient native browser, client-side polyfills for web standards. 
 
 **How is this different?**
 > Focus on newer web standards, stronger privacy, lower system overhead, and a fully open-source, community-driven model.
