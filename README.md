@@ -47,5 +47,5 @@ We welcome developers, designers, testers, and advocates. The project is in its 
 **How will it run modern websites?**
 > Through a multi-layered strategy: a highly efficient native browser, client-side polyfills for web standards, and an optional cloud proxy that simplifies complex sites for basic rendering.
 
-**How is this different from KaiOS?**
+**How is this different?**
 > Focus on newer web standards, stronger privacy, lower system overhead, and a fully open-source, community-driven model.
